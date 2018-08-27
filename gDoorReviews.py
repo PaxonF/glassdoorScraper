@@ -7,7 +7,7 @@ from urllib.request import urlopen
 from userAgents import user_agents, randomUserAgents
 import lxml
 
-url = 'https://www.glassdoor.com/Reviews/Snap-Reviews-E671946.htm'
+url = 'https://www.glassdoor.com/Overview/Working-at-PayClip-EI_IE1052303.11,18.htm'
 head = randomUserAgents()
 start = time.time()
 
